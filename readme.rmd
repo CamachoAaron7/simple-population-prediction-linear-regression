@@ -1,0 +1,1 @@
+predicts the population if Idaho for a certain year using linear regression. 
